@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iagowings
-- 👀 I’m interested in WordPress, Web Development and UI Design
-- 🌱 I’m currently learning JavaScript, React, Flutter, UX Design
+- 👀 I’m interested in Data Science, Web Development and Machine Learning;
+- 🌱 I’m currently learning JavaScript, React, Data Scrapping, UX Design
 - 💞️ I’m looking to collaborate on Open Source projects
 - 🌎 http://iagoaugusto.xyz/
 
